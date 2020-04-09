@@ -5,3 +5,5 @@ This file was modified locally.
 This line was added in feature-2 branch.
 
 this line added in feature-2 branch again.
+
+this line test git show-ref in feature-2 branch.
